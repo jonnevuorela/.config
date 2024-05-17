@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!.bashrc
+!.config/nvim/
+!.temux.conf
+!.local/bin/firefox.sh
