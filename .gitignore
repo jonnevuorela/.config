@@ -3,5 +3,6 @@
 !.gitignore
 !.bashrc
 !.config/nvim/
+!.config/nvim/**
 !.temux.conf
 !.local/bin/firefox.sh
