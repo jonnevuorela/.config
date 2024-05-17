@@ -3,6 +3,10 @@
 !.gitignore
 !.bashrc
 !.config/nvim/
-!.config/nvim/**
-!.temux.conf
+!.config/nvim/*
+!.tmux.conf
 !.local/bin/firefox.sh
+
+.config/nvim/*.md
+.config/nvim/*.txt
+.config/nvim/*.tags
