@@ -10,4 +10,4 @@
 .config/nvim/*.md
 .config/nvim/*.txt
 .config/nvim/*.tags
-.config/nvim/doc/*
+.config/nvim/doc
